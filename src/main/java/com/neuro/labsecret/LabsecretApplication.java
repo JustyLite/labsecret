@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LabsecretApplication {
 	
 	public static void main(String[] args) {
-		SpringApplication.run(LabsecretApplication.class, args);
+		System.out.println("Хуй");
+		//SpringApplication.run(LabsecretApplication.class, args);
 	}
 }
